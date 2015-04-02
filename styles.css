@@ -752,3 +752,9 @@
 .icon-camera:before {
   content: "\e0ed";
 }
+.icon-watch-1:before {
+  content: "\e0ee";
+}
+.icon-eye:before {
+  content: "\e0ef";
+}
