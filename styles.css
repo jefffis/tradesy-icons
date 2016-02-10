@@ -431,9 +431,6 @@
 .icon-surprise-1:before {
   content: "\e083";
 }
-.icon-mediocre-icon:before {
-  content: "\e084";
-}
 .icon-mediocre:before {
   content: "\e085";
 }
@@ -475,18 +472,6 @@
 }
 .icon-google:before {
   content: "\e093";
-}
-.icon-facebook-outline:before {
-  content: "\e094";
-}
-.icon-google-outline:before {
-  content: "\e095";
-}
-.icon-pinterest-outline:before {
-  content: "\e096";
-}
-.icon-twitter-outline:before {
-  content: "\e097";
 }
 .icon-accessories-active:before {
   content: "\e098";
@@ -716,23 +701,11 @@
 .icon-delete-2:before {
   content: "\e0e1";
 }
-.icon-icon-blog:before {
-  content: "\e0e2";
-}
 .icon-tote:before {
   content: "\e0e3";
 }
 .icon-chain-link:before {
   content: "\e0e6";
-}
-.icon-pin:before {
-  content: "\e0e4";
-}
-.icon-globe:before {
-  content: "\e0e5";
-}
-.icon-box-2:before {
-  content: "\e0e7";
 }
 .icon-arrow-down:before {
   content: "\e0e8";
@@ -757,4 +730,49 @@
 }
 .icon-eye:before {
   content: "\e0ef";
+}
+.icon-box-scissors:before {
+  content: "\e0e7";
+}
+.icon-shipping-kit:before {
+  content: "\e0f1";
+}
+.icon-printer-2:before {
+  content: "\e0f2";
+}
+.icon-mail-heart:before {
+  content: "\e0f0";
+}
+.icon-shopping-bag:before {
+  content: "\e0f4";
+}
+.icon-verified-outline:before {
+  content: "\e0e2";
+}
+.icon-clock-3:before {
+  content: "\e094";
+}
+.icon-delete-3:before {
+  content: "\e084";
+}
+.icon-shoes-active-2:before {
+  content: "\e095";
+}
+.icon-price-tag:before {
+  content: "\e096";
+}
+.icon-files:before {
+  content: "\e097";
+}
+.icon-add-solid:before {
+  content: "\e0e4";
+}
+.icon-magic-wand:before {
+  content: "\e0e5";
+}
+.icon-forward:before {
+  content: "\e0f3";
+}
+.icon-computer:before {
+  content: "\e0f5";
 }
